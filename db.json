@@ -1,6 +1,6 @@
 {
   "users" : [
-    {"username": "yams", "burgersCreated":[], "burgersOrdered": []}  
+    {"username": "yams", "burgersCreated":[], "burgersOrdered": ["The Tom Special"]}  
   ],
   "burgers" : [
     {
@@ -16,6 +16,13 @@
       "price": "$4.00",
       "ingredients": ["veggie beef", "veggie bacon", "mushrooms", "pickles", "mayo", "tomatoes", "onions", "avocado", "lettuce", "special sauce"],
       "chef": "Brandi"
+    },
+    {
+      "id": 3,
+      "title": "Big Kahuna",
+      "price": "$6.00",
+      "ingredients": ["angus beef", "hawaiian bacon", "mushrooms", "pickles", "mayo", "tomatoes", "onions", "avocado", "lettuce", "special sauce"],
+      "chef": "yams"
     }
   ]
 }
