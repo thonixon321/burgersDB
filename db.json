@@ -23,6 +23,13 @@
       "price": "$6.00",
       "ingredients": ["angus beef", "hawaiian bacon", "mushrooms", "pickles", "mayo", "tomatoes", "onions", "avocado", "lettuce", "special sauce"],
       "chef": "yams"
+    },
+    {
+      "id": 4,
+      "title": "The Best",
+      "price": "$7.00",
+      "ingredients": ["angus beef", "hawaiian bacon", "golden mushrooms", "pickles", "mayo", "tomatoes", "onions", "avocado", "lettuce", "special sauce"],
+      "chef": "yams"
     }
   ]
 }
