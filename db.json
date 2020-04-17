@@ -4,13 +4,13 @@
       "id": 1,
       "title": "The Tom Special",
       "price": "$5.00",
-      "ingredients": ["angus beef", "bacon", "mayo", "tomatoes", "onions", "avocado", "special sauce"]
+      "ingredients": ["angus beef", "bacon", "mayo", "tomatoes", "onions", "avocado", "lettuce", "special sauce"]
     },
     {
       "id": 2,
       "title": "Brandi's Gardenator",
       "price": "$4.00",
-      "ingredients": ["veggie beef", "veggie bacon", "mushrooms", "pickles", "mayo", "tomatoes", "onions", "avocado", "special sauce"]
+      "ingredients": ["veggie beef", "veggie bacon", "mushrooms", "pickles", "mayo", "tomatoes", "onions", "avocado", "lettuce", "special sauce"]
     }
   ]
 }
