@@ -1,6 +1,6 @@
 {
   "users" : [
-    {"username": "yams", "burgersOrdered": ["The Tom Special"]}  
+    {"username": "yams", "burgersOrdered": ["The Tom Special", "Brandi's Gardenator"]}  
   ],
   "burgers" : [
     {
